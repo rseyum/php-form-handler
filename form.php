@@ -82,14 +82,7 @@
     ?>
     
     <h2>PHP Form Handler</h2>
-      <p>  <form method="post" action="">
-        <div class="mb-3 mt-3">
-          <label for="FirstName">First Name:</label>
-          <input type="text" class="form-control" id="first name" placeholder="Enter FirstName" name="FirstName">
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
-      </form>
-    </p>
+      <p>   </p>
     </div>
   </div>
 </div>
