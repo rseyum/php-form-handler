@@ -65,6 +65,7 @@
       <hr class="d-sm-none">
     </div>
     <div class="col-sm-8">
+    <h2>PHP Form Handler</h2>
     <?php
             if(isset($_POST["FirstName"])){//show data
                 echo $_POST["FirstName"];
@@ -79,10 +80,7 @@
             </form>
             ';
             }
-    ?>
-    
-    <h2>PHP Form Handler</h2>
-      <p>   </p>
+    ?>  
     </div>
   </div>
 </div>
